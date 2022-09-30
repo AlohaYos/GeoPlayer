@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>uuid</key>
+		<string>E2C56DB5-DFFB-48D2-B060-D0F5A71096E0</string>
+		<key>major</key>
+		<string>1</string>
+		<key>minor</key>
+		<string>1</string>
+		<key>latitude</key>
+		<string>21.259053</string>
+		<key>longitude</key>
+		<string>-157.797982</string>
+		<key>radius</key>
+		<string>20</string>
+	</dict>
+	<dict>
+		<key>uuid</key>
+		<string>E2C56DB5-DFFB-48D2-B060-D0F5A71096E0</string>
+		<key>major</key>
+		<string>1</string>
+		<key>minor</key>
+		<string>2</string>
+		<key>latitude</key>
+		<string>21.263802</string>
+		<key>longitude</key>
+		<string>-157.796736</string>
+		<key>radius</key>
+		<string>15</string>
+	</dict>
+	<dict>
+		<key>uuid</key>
+		<string>E2C56DB5-DFFB-48D2-B060-D0F5A71096E0</string>
+		<key>major</key>
+		<string>1</string>
+		<key>minor</key>
+		<string>3</string>
+		<key>latitude</key>
+		<string>21.269521</string>
+		<key>longitude</key>
+		<string>-157.803539</string>
+		<key>radius</key>
+		<string>10</string>
+	</dict>
+</array>
+</plist>
