@@ -18,5 +18,5 @@ GeoPlayer can send GPX data to GeoPlayer-client app, which can receive location 
 
 Simulate Location and Motion information for Debugging iOS apps. GeoFake framework works with GeoPlayer.
 
-GeoFake website: https://newtonjapan.com/GeoPlayer/repeat-location-motion
-Framework and source code: https://github.com/AlohaYos/GeoFake
+- GeoFake website: https://newtonjapan.com/GeoPlayer/repeat-location-motion
+- Framework and source code: https://github.com/AlohaYos/GeoFake
